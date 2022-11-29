@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GreekBrains Сертификаты\\Си Шарп язык програмирования\\Dz-8-Csharp\\Zadacha002\\Zadacha002.csproj": {}
+  },
+  "projects": {
+    "D:\\GreekBrains Сертификаты\\Си Шарп язык програмирования\\Dz-8-Csharp\\Zadacha002\\Zadacha002.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GreekBrains Сертификаты\\Си Шарп язык програмирования\\Dz-8-Csharp\\Zadacha002\\Zadacha002.csproj",
+        "projectName": "Zadacha002",
+        "projectPath": "D:\\GreekBrains Сертификаты\\Си Шарп язык програмирования\\Dz-8-Csharp\\Zadacha002\\Zadacha002.csproj",
+        "packagesPath": "C:\\Users\\ApApueB\\.nuget\\packages\\",
+        "outputPath": "D:\\GreekBrains Сертификаты\\Си Шарп язык програмирования\\Dz-8-Csharp\\Zadacha002\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ApApueB\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
